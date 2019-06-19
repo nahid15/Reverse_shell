@@ -1,0 +1,2 @@
+In command promot go to the folder where client.py file was...then type "pyinstaller -F client.py"
+use -w after -F for removing pop up client shell
